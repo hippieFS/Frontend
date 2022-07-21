@@ -1,8 +1,8 @@
 import React from "react";
 import "./Card.css";
-import food from "../assets/food.jpg"; 
-import heartOutline from "../assets/heart-outline.png"; 
-import heartFill from "../assets/heart-fill.png"; 
+import food from "../../assets/food.jpg"; 
+import heartOutline from "../../assets/heart-outline.png"; 
+import heartFill from "../../assets/heart-fill.png"; 
  
 export default function Card(props) {
   return (
